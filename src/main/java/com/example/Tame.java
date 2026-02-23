@@ -4,7 +4,7 @@
 * Copyright: 2026, Fazekas Laura
 * Group: SZOFT-IIN
 * Date: 2026-02-23
-* Github: https://github.com/oktatrefakt/
+* Github: https://github.com/Lavcsii/iin_oktreasure.git
 * Licenc: MIT
 */
 
